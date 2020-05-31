@@ -1,0 +1,13 @@
+.list-movies {
+  margin: 2rem auto;
+}
+
+.img__movie {
+  transition: all 500ms ease;
+  box-shadow: -5px 0 10px rgba(0, 0, 0, .5);
+  border-radius: 10px;
+}
+
+.img__movie:hover {
+  transform: scale(1.05);
+}
